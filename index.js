@@ -1,3 +1,7 @@
-let tip = 4;
-let money = tip < 5 ? "stingy" : "show off"
-console.log(money)
+console.clear()
+for (var i = 1; i < 10; i++) {
+    if (i % 3 == 0) {
+        break;
+    }
+}
+console.log(i);
