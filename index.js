@@ -1,5 +1,6 @@
-function test() {
-    let message = "Hello"
-    console.log(message);
-}
-test();
+let x;
+let y;
+x = 10;
+x +=
+
+    console.log(x)
