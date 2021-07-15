@@ -1,4 +1,4 @@
-console.clear()
+npxconsole.clear()
 
 function reverse(str) {
     let stack = [];

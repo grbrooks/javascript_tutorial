@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 07 2021 22:28:07 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* index.js
+
+
+Created files:
+* cities.js
+
+
+Deleted files:
+
+
+Renamed files:
