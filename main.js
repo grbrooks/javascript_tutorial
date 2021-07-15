@@ -14,5 +14,7 @@ function reverse(str) {
     }
     return reverseStr;
 }
-text = "Hello World";
+
+text = "drawkcab";
+document.write = text;
 console.log(reverse(text));
