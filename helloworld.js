@@ -1,2 +1,4 @@
   console.clear()
-  console.log( "Daft ass")
+  let txt
+  txt = "twsting"
+  console.log(txt)

@@ -1,4 +1,5 @@
-npxconsole.clear()
+console.clear()
+let text;
 
 function reverse(str) {
     let stack = [];
@@ -13,4 +14,5 @@ function reverse(str) {
     }
     return reverseStr;
 }
-console.log(reverse('skoorB maharG Graham Brooks'));
+text = "Hello World";
+console.log(reverse(text));
